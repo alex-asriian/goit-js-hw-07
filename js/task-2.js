@@ -37,9 +37,7 @@ const gallery = document.querySelector(".gallery");
 const markup = imagesTemplate(images)
 gallery.insertAdjacentHTML('beforeend', markup);
 
-function gallery(a,b,c) {
-  
-}
+
 
 
 
